@@ -1,6 +1,6 @@
 # Flatbay-UI
 
-![Screenshot of screen 1](https://github.com/ShubhenduSrivastava/Flatbay-UI/assets/71115938/86a835fe-a83b-41ee-8a9c-90f3fe48375c)
+![Screenshot of screen 1](https://github.com/ShubhenduSrivastava/Flatbay-UI/assets/71115938/86a835fe-a83b-41ee-8a9c-90f3fe48375c) 
 
 Screenshot of screen 1
 
